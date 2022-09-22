@@ -1,0 +1,45 @@
+body{
+    margin: 0px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+.jumbotron{
+    background-image: url(gambar/background.jpg);
+    background-size:cover;
+    border-radius: 10%;
+    width: 100%;
+    height: 630px;
+}
+#namepp{
+    color: yellow;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    text-align: center;
+    position: relative;
+    left: 50%;
+    text-shadow:1px 1px 2px #6610f2;
+    transform: translateX(-50%);
+    font-size: 30px;
+}
+.container1{
+    background-image: url(gambar/5570863.jpg);
+    background-size:cover;
+    width: 100%;
+    height: 1000px;
+}
+h2{
+    color: #6610f2;
+    text-shadow: 2px 2px 2px yellow;
+}
+#bio1{
+    position:relative;
+    top:2%;
+}
+#fotobio{
+    position: relative;
+    left: 10%;
+}
+.container2{
+    background-image: url(gambar/5570863\ 1.jpg);
+    background-size:cover;
+    width: 100%;
+    height: 900px;
+}
